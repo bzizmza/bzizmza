@@ -1,8 +1,8 @@
 # Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Bima! 🧑🏻
 
 <p align="justify">
-  I majored in computer engineering and am interested in big data, artificial intelligence and machine learning. Right now, I'm focusing on studying in the field of data science.
-</p>
+  I am a computer engineering student and I am interested in Big Data, Artificial Intelligence and Machine Learning.  I'm currently focused on learning more about Data Science.
+  </p>
 
 ## 🔍 You Can Find Me at
 
